@@ -105,6 +105,7 @@ The objective of this project was to:
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/cf4aa49f-bdf8-488c-8683-347d2ce918b9)
 
 
 
